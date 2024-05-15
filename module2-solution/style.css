@@ -1,0 +1,258 @@
+body{
+	font-family: sans-serif;
+}
+	.heading
+{
+	font-size: 50px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.box-text
+{
+	font-size: 16px;
+	margin-top: 40px;
+}
+
+@media (min-width: 1200px)
+{
+.box1
+{
+	background-color: #808080;
+	float: left;
+	width: 30%;
+	margin-left: 20px;
+	margin-right: 20px;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box2
+{
+	background-color: #808080;
+	float: left;
+	width: 30%;
+	margin-left: 20px;
+	margin-right: 20px;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box3
+{
+	background-color: #808080;
+	float: left;
+	width: 30%;
+	margin-left: 20px;
+	margin-right: 20px;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}.subheading-box1
+{
+    background-color: #FFC0CB;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading-box2
+{
+    background-color: #FF0000;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading-box3
+{
+    background-color: #FFFF00;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading1
+{
+	margin: 0;
+}
+.subheading2
+{
+    color: white;
+    margin: 0;
+}
+
+}
+
+@media (min-width: 950px) and (max-width: 1199px)
+{
+	.box1
+{
+	background-color: #808080;
+	float: left;
+	width: 49%;
+	margin-left: 0;
+	margin-right: 10px;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box2
+{
+	background-color: #808080;
+	float: left;
+	width: 49%;
+	margin-left: 10px;
+	margin-right: 0;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+	.box3
+{
+	background-color: #808080;
+	float: left;
+	width: 100%;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.subheading-box1
+{
+    background-color: #FFC0CB;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading-box2
+{
+    background-color: #FF0000;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading-box3
+{
+    background-color: #FFFF00;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading1
+{
+	margin: 0;
+}
+.subheading2
+{
+    color: white;
+    margin: 0;
+}
+}
+@media only screen and (max-width: 767px)
+{
+    .box1
+{
+	background-color: #808080;
+	width: 100%;
+	margin-right: 20px;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;#
+    margin-top: 20px;
+}
+.box2
+{
+	background-color: #808080;
+	width: 100%;
+	margin-right: 20px;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+	.box3
+{
+	background-color: #808080;
+	width: 100%;
+    box-sizing: border-box;
+    border: 3px solid #000;
+    position: relative;
+	margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+.subheading-box1
+{
+    background-color: #FFC0CB;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading-box2
+{
+    background-color: #FF0000;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading-box3
+{
+    background-color: #FFFF00;
+    border-bottom: 3px solid #000;
+    border-left: 3px solid #000;
+    position: absolute;
+    right: 0;
+    width: 30%;
+    box-sizing: border-box;
+}
+.subheading1
+{
+	margin: 0;
+}
+.subheading2
+{
+    color: white;
+    margin: 0;
+}
+}
